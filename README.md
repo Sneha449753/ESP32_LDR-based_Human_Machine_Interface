@@ -19,7 +19,7 @@ Instead of manual control, the system automatically adjusts its behavior based o
 - ESP32 Microcontroller  
 - LDR (Light Dependent Resistor)  
 - Resistor (for voltage divider)  
-- LED or Servo Motor  
+- Servo Motor  
 - Breadboard and connecting wires  
 
 ---
